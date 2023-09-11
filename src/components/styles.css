@@ -59,6 +59,8 @@
   width: 47.5%;
   padding: 15px;
   background-color: rgb(131, 159, 185);
+  flex-wrap: wrap;
+  justify-content: space-evenly;
 }
 
 .dragactive {
